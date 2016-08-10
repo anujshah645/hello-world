@@ -1,2 +1,2 @@
 # hello-world
-just a trial repository
+just a trial repository for understanding
